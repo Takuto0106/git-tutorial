@@ -1,2 +1,2 @@
 # Git Tutorial
-This is a tutorial repository for lerning Git.
+This is a tutorial repository for learning Git.
